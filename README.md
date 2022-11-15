@@ -1,4 +1,13 @@
-### Hi there 👋
+## My interests:
+
+* Batteries
+* Circuits
+* Military history
+* Personal finance
+
+## Connect with me:
+
+## Recent blog posts: 
 
 <!--
 **ziggle/ziggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
