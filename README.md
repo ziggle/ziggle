@@ -1,5 +1,10 @@
 ![Cabin Photo](cabin.png)
 
+<br>
+<h2 align=center>Hi! I'm Mark Biegert</h2>
+<h3 align=center>Electrical engineer currently working on data science with respect to batteries and sensor circuits</h3>
+<br>
+
 ## My interests:
 
 * Batteries
