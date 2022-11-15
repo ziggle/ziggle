@@ -1,9 +1,12 @@
+![Cabin Photo](cabin.png)
+
 ## My interests:
 
 * Batteries
 * Circuits
 * Military history
 * Personal finance
+* Woodworking
 
 ## Connect with me:
 
