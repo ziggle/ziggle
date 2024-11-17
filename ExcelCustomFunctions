@@ -1,0 +1,1 @@
+_fIndex=LAMBDA(d,r,INDEX(d,r,SEQUENCE(1,COLUMNS(d))))
